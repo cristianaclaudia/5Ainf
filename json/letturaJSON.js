@@ -1,6 +1,6 @@
 function caricaDati() {
     var file = new XMLHttpRequest();
-    file.open("GET", "https://raw.githubusercontent.com/CristianaClaudia/5Ainf/refs/heads/main/JSON/anagrafica.json", true);
+    file.open("GET", "https://raw.githubusercontent.com/CristianaClaudia/5Ainf/refs/heads/main/json/anagrafica.json", true);
     file.send();
     file.onreadystatechange = function() {
         if (this.readyState == 4 && this.status == 200) {
