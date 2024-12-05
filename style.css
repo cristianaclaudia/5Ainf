@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #e8f8f0; 
+    color: #333;
+}
+
+header {
+    background-color: #1e7f3f; 
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.header-container h1 {
+    font-size: 36px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main {
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.content h2 {
+    font-size: 28px;
+    margin-bottom: 15px;
+    color: #1e7f3f; 
+}
+
+.student-info {
+    background-color: #d4f9d4; 
+    border-left: 5px solid #1e7f3f;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.student-info h3 {
+    font-size: 24px;
+    color: #1e7f3f; 
+    margin-bottom: 10px;
+}
+
+.student-info h2 {
+    font-size: 22px;
+    color: #333;
+}
+
+.links h3 {
+    font-size: 22px;
+    margin-bottom: 10px;
+    color: #1e7f3f; 
+}
+
+.links ul {
+    list-style-type: none;
+}
+
+.links li {
+    margin-bottom: 10px;
+}
+
+.button {
+    background-color: #2d9f68; 
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.button:hover {
+    background-color: #22995d; 
+    transform: scale(1.05); 
+}
+
+footer {
+    text-align: center;
+    background-color: #1e7f3f; 
+    color: white;
+    padding: 10px;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
