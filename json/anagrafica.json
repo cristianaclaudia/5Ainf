@@ -1,0 +1,42 @@
+{
+    "Immagini": [
+        {"Immagine": "giulia.jpg"},
+        {"Immagine": "regine.jpg"},
+        {"Immagine": "cristiana.jpg"}
+    ],
+    "Nomi": [
+        {"Nome": "Giulia"},
+        {"Nome": "Regine"},
+        {"Nome": "Cristiana"}
+    ],
+    "Cognomi": [
+        {"Cognome": "Marcuccetti"},
+        {"Cognome": "Archico"},
+        {"Cognome": "Galli"}
+    ],
+    "Eta": [
+        {"Eta": "18"},
+        {"Eta": "18"},
+        {"Eta": "18"}
+    ],
+    "Indirizzi": [
+        {"Indirizzo": "Via Raffaello Sanzio 3"},
+        {"Indirizzo": "Via Raffaello Sanzio 4"},
+        {"Indirizzo": "Via Raffaello Sanzio 5"}
+    ],
+    "Citta": [
+        {"Citta": "Lainate"},
+        {"Citta": "Baranzate"},
+        {"Citta": "Bareggio"}
+    ],
+    "Telefoni": [
+        {"Telefono1": "1234567890", "Telefono2": "0987654321"},
+        {"Telefono1": "1987654321", "Telefono2": "1987654321"},
+        {"Telefono1": "0234567890", "Telefono2": "9987654321"}
+    ],
+    "Sport": [
+        {"Sport1": "Calcio", "Sport2": "Tennis"},
+        {"Sport1": "Danza", "Sport2": "Pallavolo"},
+        {"Sport1": "Judo", "Sport2": "Badminton"}
+    ]
+}
